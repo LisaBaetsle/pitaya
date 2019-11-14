@@ -1,0 +1,18 @@
+:root {
+    /* colors --------- */
+    --color-fuchsia: #E80064;
+    --color-blue: #9EC5C4;
+    --color-green: #B4B502;
+    --color-yellow: #FADF36;
+    --color-dark-grey: #707070;
+    --color-light-grey: #EAE9E7;
+    --color-white: white;
+
+    /* fonts --------- */
+    --font-family-body: 'robota', sans-serif;
+    --font-family-headings: 'norican', sans-serif;
+    --font-family-jumbo: "sweet pea", cursive;
+
+    /* layout --------- */
+    --grid-gutter: 24px;
+}

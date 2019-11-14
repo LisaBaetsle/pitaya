@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600|Roboto:300,300i,400,400i,500,500i');
+@font-face {
+    font-family: 'sweet_pearegular';
+    src: url('sweet_pea-webfont.woff2') format('woff2'),
+         url('sweet_pea-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'noricanregular';
+    src: url('norican-regular-webfont.woff2') format('woff2'),
+         url('norican-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
